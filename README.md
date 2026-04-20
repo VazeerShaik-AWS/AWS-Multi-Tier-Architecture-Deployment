@@ -46,6 +46,7 @@ Designed a highly available and scalable multi-tier architecture on AWS by separ
 ## Author
 
 **Vazeer Shaik**
+
 AWS Cloud Engineer
 
 ---
