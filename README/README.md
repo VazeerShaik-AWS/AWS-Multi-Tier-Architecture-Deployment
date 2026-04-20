@@ -67,7 +67,7 @@ Production-ready architecture
 
 
 
-## 👨‍💻 Author
+## Author
 
 **Vazeer Shaik**
 
