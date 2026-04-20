@@ -25,12 +25,6 @@ Designed a highly available and scalable multi-tier architecture on AWS by separ
 * Amazon RDS configured in Multi-AZ for high availability
 * VPC with public and private subnets ensures secure network isolation
 
-## Architecture Diagram
-
-<p align="center">
-  <img src="diagrams/architecture.png" width="700">
-</p>
-
 ## AWS Services Used
 
 * Amazon VPC
