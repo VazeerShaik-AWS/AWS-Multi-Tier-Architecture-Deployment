@@ -1,4 +1,4 @@
-# AWS Multi-Tier Architecture
+# AWS Multi-Tier Architecture Deployment
 
 ## Overview
 
